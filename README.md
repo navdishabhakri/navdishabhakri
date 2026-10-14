@@ -115,24 +115,31 @@ Object-oriented C++ application modeling a product hierarchy (smartphones, lapto
 - `C++` `OOP`
 
 ---
-
 ## 🛠️ Tech Stack
-
-**Languages:** ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
-
-**AI / ML:** ![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C) ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikitlearn&logoColor=white) ![Gemini](https://img.shields.io/badge/-Gemini-8E75B2) ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white) ![pandas](https://img.shields.io/badge/-pandas-150458?logo=pandas&logoColor=white)
-
-**Backend:** ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
-
-**Frontend:** ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwindcss&logoColor=white) ![Redux](https://img.shields.io/badge/-Redux_Toolkit-764ABC?logo=redux&logoColor=white)
-
-**Data & Infra:** ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
-
-**Testing:** Pytest, Jest, RAGAS (LLM evaluation)
-
----
-
-## 📈 GitHub Stats
-
-![Navdisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=navdishabhakri&show_icons=true&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=navdishabhakri&layout=compact&hide_border=true)
+ 
+Everything below is something I've actually used in the repos above.
+ 
+**Languages**
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+ 
+**LLMs, Agents & Retrieval**
+![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C) ![MCP](https://img.shields.io/badge/-MCP-000000) ![Gemini](https://img.shields.io/badge/-Gemini_API-8E75B2) ![OpenAI](https://img.shields.io/badge/-OpenAI_API-412991?logo=openai&logoColor=white) ![Groq](https://img.shields.io/badge/-Groq-F55036) ![Cohere](https://img.shields.io/badge/-Cohere-39594D) ![CodeBERT](https://img.shields.io/badge/-CodeBERT-FFD21E?logo=huggingface&logoColor=black) ![transformers.js](https://img.shields.io/badge/-transformers.js-FFD21E?logo=huggingface&logoColor=black) ![pgvector](https://img.shields.io/badge/-pgvector-4169E1?logo=postgresql&logoColor=white) ![Tree-sitter](https://img.shields.io/badge/-Tree--sitter-5B7065) ![RAGAS](https://img.shields.io/badge/-RAGAS-6E40C9) ![whisper.cpp](https://img.shields.io/badge/-whisper.cpp-412991)
+ 
+**Machine Learning & Data**
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikitlearn&logoColor=white) ![pandas](https://img.shields.io/badge/-pandas-150458?logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white) ![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?logo=scipy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C) ![Seaborn](https://img.shields.io/badge/-Seaborn-4C8CBF) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white) ![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoftexcel&logoColor=white)
+ 
+**Backend**
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white) ![Socket.io](https://img.shields.io/badge/-Socket.io-010101?logo=socketdotio&logoColor=white) ![JWT](https://img.shields.io/badge/-JWT-000000?logo=jsonwebtokens&logoColor=white) ![Stripe](https://img.shields.io/badge/-Stripe-635BFF?logo=stripe&logoColor=white) ![REST](https://img.shields.io/badge/-REST_APIs-5B7065)
+ 
+**Frontend**
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white) ![React Router](https://img.shields.io/badge/-React_Router-CA4245?logo=reactrouter&logoColor=white) ![Redux](https://img.shields.io/badge/-Redux_Toolkit-764ABC?logo=redux&logoColor=white) ![React Query](https://img.shields.io/badge/-React_Query-FF4154?logo=reactquery&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white) ![Chart.js](https://img.shields.io/badge/-Chart.js-FF6384?logo=chartdotjs&logoColor=white)
+ 
+**Databases & Storage**
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?logo=supabase&logoColor=white)
+ 
+**DevOps & Tooling**
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=githubactions&logoColor=white) ![Railway](https://img.shields.io/badge/-Railway-0B0D0E?logo=railway&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![ffmpeg](https://img.shields.io/badge/-ffmpeg-007808?logo=ffmpeg&logoColor=white) ![yt-dlp](https://img.shields.io/badge/-yt--dlp-FF0000?logo=youtube&logoColor=white)
+ 
+**Security & Testing**
+![Cryptography](https://img.shields.io/badge/-Fernet_%2F_SHA--256-5B7065) ![Pytest](https://img.shields.io/badge/-Pytest-0A9EDC?logo=pytest&logoColor=white) ![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white)
+ 
