@@ -4,25 +4,25 @@
 
 I'm most interested in **agentic AI, retrieval systems, and the engineering around them**: evaluation, testing, CI/CD, and security. I like building the unglamorous parts by hand (chunking, retrieval, tool-call loops, state machines) so I understand exactly how they work.
 
-- 🔭 Currently building: LLM agents and RAG pipelines, with an eye on evaluation
-- 🌱 Looking for: new grad software / AI engineering roles starting 2027
-- 📫 Reach me: https://www.linkedin.com/in/navdisha-bhakri-58745b265/
+- Currently building: LLM agents and RAG pipelines, with an eye on evaluation
+- Looking for: new grad software / AI engineering roles starting 2027
+- Reach me: https://www.linkedin.com/in/navdisha-bhakri-58745b265/
 
 ---
 
-## 🗂️ Projects at a glance
+## Projects at a glance
 
 | Category | Projects |
 |---|---|
-| 🤖 [Agentic AI & RAG](#-agentic-ai--rag) | Agentic AI Debugger, Marginalia |
-| 🌐 [Full-Stack & AI Apps](#-full-stack--ai-apps) | VeroBook, Painease, AI Content Generator, Real-Time Chat |
-| 🔐 [Security](#-security) | File Sharing & Encryption App |
-| 📊 [Machine Learning & Data Science](#-machine-learning--data-science) | Breast Cancer Diagnosis, Flight Delay Prediction, Toronto Crime Analysis |
-| 🧱 [Systems & Fundamentals](#-systems--fundamentals) | Inventory Management System (C++) |
+| [Agentic AI & RAG](#-agentic-ai--rag) | Agentic AI Debugger, Marginalia |
+| [Full-Stack & AI Apps](#-full-stack--ai-apps) | VeroBook, Painease, AI Content Generator, Real-Time Chat |
+| [Security](#-security) | File Sharing & Encryption App |
+| [Machine Learning & Data Science](#-machine-learning--data-science) | Breast Cancer Diagnosis, Flight Delay Prediction, Toronto Crime Analysis |
+| [Systems & Fundamentals](#-systems--fundamentals) | Inventory Management System (C++) |
 
 ---
 
-## 🤖 Agentic AI & RAG
+## Agentic AI & RAG
 
 ### [Agentic AI Debugger](https://github.com/navdishabhakri/agentic-ai-debugger)
 An autonomous agent that reads a failing test, finds the relevant code, writes a fix, **runs it to validate**, and opens a pull request. A second agent reviews PRs with inline comments. An MCP server lets Claude Desktop query the codebase directly.
@@ -44,7 +44,7 @@ Turns any lecture (YouTube link or uploaded video) into timestamped notes, a syn
 
 ---
 
-## 🌐 Full-Stack & AI Apps
+## Full-Stack & AI Apps
 
 ### VeroBook: Patient Appointment Booking
 Four-step booking wizard for patients and an admin dashboard for clinic staff.
@@ -71,7 +71,7 @@ Event-driven messaging with private and group chats, authentication, and REST AP
 
 ---
 
-## 🔐 Security
+## Security
 
 ### File Sharing & Encryption Web App
 Register, upload, encrypt, and securely share files with other users.
@@ -83,7 +83,7 @@ Register, upload, encrypt, and securely share files with other users.
 
 ---
 
-## 📊 Machine Learning & Data Science
+## Machine Learning & Data Science
 
 ### Breast Cancer Diagnosis (Binary Classification)
 Compared logistic regression, KNN, random forest, and SVM with a **recall-first** evaluation strategy, since a missed cancer costs far more than a false alarm.
@@ -107,7 +107,7 @@ Exploratory and predictive analysis of Toronto Police open data from 2013 onward
 
 ---
 
-## 🧱 Systems & Fundamentals
+## Systems & Fundamentals
 
 ### Inventory Management System
 Object-oriented C++ application modeling a product hierarchy (smartphones, laptops) with inheritance, polymorphism, abstraction, file parsing, and exception handling.
