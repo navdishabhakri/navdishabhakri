@@ -24,16 +24,16 @@ I'm most interested in **agentic AI, retrieval systems, and the engineering arou
 
 ## Agentic AI & RAG
 
-### [Agentic AI Debugger](https://github.com/navdishabhakri/agentic-ai-debugger)
+### [Agentic AI Debugger](https://github.com/navdishabhakri/codebase-qa)
 An autonomous agent that reads a failing test, finds the relevant code, writes a fix, **runs it to validate**, and opens a pull request. A second agent reviews PRs with inline comments. An MCP server lets Claude Desktop query the codebase directly.
 
 - **Hybrid retrieval:** Tree-sitter AST chunking (8 languages) → BM25 + CodeBERT embeddings → Reciprocal Rank Fusion → Cohere rerank
 - **Agent:** LangGraph, 5 nodes, persistent memory, retry logic
 - **Evaluated with RAGAS:** faithfulness **0.77**, answer relevancy **0.84**, context recall **0.88**
 - **Integrations:** GitHub Actions trigger on test failure, from-scratch MCP server
-- `Python` `FastAPI` `LangGraph` `PostgreSQL + pgvector` `Cohere` `Groq` `Docker` `Railway`
+- `Python` `FastAPI` `LangGraph` `PostgreSQL + pgvector` `Cohere` `Groq` `Docker` `Oracle`
 
-### Marginalia
+### [Marginalia](https://github.com/navdishabhakri/marginalia-learning-assistant)
 Turns any lecture (YouTube link or uploaded video) into timestamped notes, a synced player, a grounded chat, and a graded quiz. The whole AI pipeline is hand-built, with no LangChain or LlamaIndex.
 
 - **Local-first:** whisper.cpp transcription and MiniLM embeddings run on-device
